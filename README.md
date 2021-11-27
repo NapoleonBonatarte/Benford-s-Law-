@@ -1,5 +1,5 @@
 # Benford-s-Law-
-This is a project that is designed to detect fraud in a data set through the application of Benford's Law
+This is a project that is designed to detect fraud in a data set through the application of Benford's Law (with csv files)
 
 # Author: Tyler Windemuth
 
