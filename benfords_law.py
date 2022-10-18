@@ -1,6 +1,5 @@
 ###
 # Author: Tyler Windemuth
-# Class: CSc 110
 # Description: This program is a program that can iterate through a
 #              data set and use said data said to determine if the data
 #              is following Benford's law. This is done by iterating through
